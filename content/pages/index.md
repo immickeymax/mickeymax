@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Wel
+      label: Mickeymax.com
       color: text-primary
       type: Badge
     elementId: ''
