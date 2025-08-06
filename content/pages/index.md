@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome to MickeyMax.com
 slug: /
 sections:
   - type: GenericSection
